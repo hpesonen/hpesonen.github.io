@@ -52,7 +52,7 @@ plugins:
 author:
   name: "Henri Pesonen"
   avatar: "/assets/images/hpesonen_profilepic.jpg"
-  bio: "I'm a postdoc and I simulate"
+  bio: "I do simulator-based inference and maintain ELFI"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
