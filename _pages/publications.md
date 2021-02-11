@@ -11,6 +11,9 @@ Journal
 
 Preprints
 ==========
+1. Thomas, O., Pesonen, H. and Corander, J. (2020) [Generalised Bayes Updates with f-divergences through Probabilistic Classifiers](https://arxiv.org/abs/2007.04358)
+
+2.  Aushev, A., Pesonen, H., Heinonen, M., Corander, J. and Kaski S. (2020) [Likelihood-Free Inference with Deep Gaussian Processes](https://arxiv.org/abs/2006.10571)
 
 Conference
 ==========
