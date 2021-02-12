@@ -12,7 +12,7 @@ Journal
 2. Kataja, E.-L., Karlsson, L., Leppänen, J.M., Pelto, J., Häikiö, T., Nolvi, S., **Pesonen, H.**, Parsons, C.E., Hyönä, J. and Karlsson, H. [Maternal depressive symptoms during the pre‐and postnatal periods and infant attention to emotional faces](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/cdev.13152)
 *Child development* 2020, 91(2):e475-e480
 
-3. Pilleriin Sikka, Henri Pesonen, Antti Revonsuo (2018)[Peace of mind and anxiety in the waking state are related to the affective content of dreams](https://www.nature.com/articles/s41598-018-30721-1) *Scientific reports* 2018, 8(1):1-13
+3. Sikka, P., **Pesonen, H.** and Revonsuo, A. (2018)[Peace of mind and anxiety in the waking state are related to the affective content of dreams](https://www.nature.com/articles/s41598-018-30721-1) *Scientific reports* 2018, 8(1):1-13
 
 
 Preprints
