@@ -17,7 +17,11 @@ Journal
 4. Salokangas, R.K.R, Schultze-Lutter, F., Schmidt, S.J., **Pesonen, H.**, Luutonen, S.,  Patterson, P., von Reventlow, H.G., Heinimaa, M., From, T. and Hietala, J., (2020) [Childhood physical abuse and emotional neglect are specifically associated with adult mental disorders](https://www.tandfonline.com/doi/10.1080/09638237.2018.1521940) *Journal of Mental Health* 2020, 29(4):376-384
 
 5. Kallionpää, R.E., Pesonen, H.,  Scheinin, A. Sandman, N., Laitio, R., Scheinin, H., Revonsuo, A. and Valli, K. (2019) [Single-subject analysis of N400 event-related potential component with five different methods](https://www.sciencedirect.com/science/article/pii/S0167876019300406)
-*International Journal of Psychophysiology* (2019), 144:14-24
+*International Journal of Psychophysiology* 2019, 144:14-24
+
+6. Korhonen, L.S., Kortesluoma, S., Lukkarinen, M., Peltola, V., **Pesonen, H.**, Pelto, J., Tuulari, J.J., Lukkarinen, H., Vuorinen, T., Karlsson, H. and Karlsson, L. (2019) [Prenatal maternal distress associates with a blunted cortisol response in rhinovirus-positive infants](https://www.sciencedirect.com/science/article/pii/S0306453018310722) *Psychoneuroendocrinology* 2019, 107:187-190
+
+7. Kokko, J., Remes, U., Thomas, O., **Pesonen, H.** and Corander, J. (2019) [PYLFIRE: Python implementation of likelihood-free inference by ratio estimation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7041362.1/) *Wellcome Open research* 2019, 4:197
 
 Preprints
 ==========
