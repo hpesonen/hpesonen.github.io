@@ -23,6 +23,17 @@ Journal
 
 7. Kokko, J., Remes, U., Thomas, O., **Pesonen, H.** and Corander, J. (2019) [PYLFIRE: Python implementation of likelihood-free inference by ratio estimation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7041362.1/) *Wellcome Open research* 2019, 4:197
 
+8. Nolvi, S., Uusitupa, H.‐M., Bridgett, D.J., **Pesonen, H.**, Aatsinki, A.‐K. Kataja, E.‐L., Korja, R., Karlsson, H. and Karlsson, L. (2018) [Human milk cortisol concentration predicts experimentally induced infant fear reactivity: moderation by infant sex](https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12625) *Developmental Science* 2018, 21(4):e12625
+
+9. Nolvi, S., Bridgett, D.J., **Pesonen, H.**, Korja, R., Kataja, E.‐L., Karlsson, H. and Karlsson, L. (2018)
+[Infant sex moderates the effects of maternal pre‐and postnatal stress on executive functioning at 8 months of age](https://onlinelibrary.wiley.com/doi/abs/10.1111/infa.12206) *Infancy* 2018, 23(2):194-210
+
+10. Railo, H., Tuominen, J., Kaasinen, V. and **Pesonen, H.** (2017) [Dynamic changes in cortical effective connectivity underlie transsaccadic integration in humans](https://academic.oup.com/cercor/article/27/7/3609/3056384) *Cerebral Cortex* 2017, 27(7):3609-3617
+
+11. Railo, H., Karhu, V.-M., Mast, J., **Pesonen, H.** and Koivisto, M. (2016) [Rapid and accurate processing of multiple objects in briefly presented scenes](https://jov.arvojournals.org/article.aspx?articleid=2491178) *Journal of Vision* 2016, 16(3):8
+
+12. Pesonen, M., **Pesonen, H.** and Nevalainen, J. (2015) [Covariance matrix estimation for left-censored data](https://www.sciencedirect.com/science/article/abs/pii/S0167947315001437), *Computational Statistics & Data Analysis*, 2015, 92:13-25
+
 Preprints
 ==========
 1. Thomas, O., Pesonen, H. and Corander, J. (2020) [Generalised Bayes Updates with f-divergences through Probabilistic Classifiers](https://arxiv.org/abs/2007.04358)
