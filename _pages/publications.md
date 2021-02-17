@@ -34,14 +34,25 @@ Journal
 
 12. Pesonen, M., **Pesonen, H.** and Nevalainen, J. (2015) [Covariance matrix estimation for left-censored data](https://www.sciencedirect.com/science/article/abs/pii/S0167947315001437), *Computational Statistics & Data Analysis*, 2015, 92:13-25
 
+13. Aatsinki, A.-K., Uusitupa, H.-M., Munukka, E., **Pesonen, H.**, Rintala, A., Pietilä, S., Lahti, L., Eerola, E., Karlsson, L. and Karlsson, H. (2018) [Gut microbiota composition in mid-pregnancy is associated with gestational weight gain but not prepregnancy body mass index](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6205042/) *Journal of Women's Health*, 2018, 27(10):1293-1301
+
+14. **Pesonen, H** (2011), [A framework for Bayesian receiver autonomous integrity monitoring in urban navigation](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2161-4296.2011.tb02583.x) *Navigation*, 2011, 58(3):229-240
+
 Preprints
 ==========
-1. Thomas, O., Pesonen, H. and Corander, J. (2020) [Generalised Bayes Updates with f-divergences through Probabilistic Classifiers](https://arxiv.org/abs/2007.04358)
+1. Thomas, O., **Pesonen, H.** and Corander, J. (2020) [Generalised Bayes Updates with f-divergences through Probabilistic Classifiers](https://arxiv.org/abs/2007.04358)
 
-2.  Aushev, A., Pesonen, H., Heinonen, M., Corander, J. and Kaski S. (2020) [Likelihood-Free Inference with Deep Gaussian Processes](https://arxiv.org/abs/2006.10571)
+2.  Aushev, A., **Pesonen, H.**, Heinonen, M., Corander, J. and Kaski S. (2020) [Likelihood-Free Inference with Deep Gaussian Processes](https://arxiv.org/abs/2006.10571)
 
 3. Thomas, O., **Pesonen, H.** and Corander, J. (2020) [Probabilistic elicitation of expert knowledge through assessment of computer simulations](https://arxiv.org/abs/2002.10902)
 
 Conference
 ==========
 
+1. **Pesonen, H.** and Piché, R. (2010) [Cubature-based Kalman filters for positioning](https://ieeexplore.ieee.org/abstract/document/5653829)
+*7th Workshop on Positioning, Navigation and Communication*, 2010, 45-49
+
+Thesis
+======
+
+**Pesonen, H** (2013), [Bayesian Estimation and Quality Monitoring for Personal Positioning Systems](https://trepo.tuni.fi/handle/10024/114878)
