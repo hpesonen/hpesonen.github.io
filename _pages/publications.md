@@ -21,22 +21,25 @@ Journal
 
 6. Korhonen, L.S., Kortesluoma, S., Lukkarinen, M., Peltola, V., **Pesonen, H.**, Pelto, J., Tuulari, J.J., Lukkarinen, H., Vuorinen, T., Karlsson, H. and Karlsson, L. (2019) [Prenatal maternal distress associates with a blunted cortisol response in rhinovirus-positive infants](https://www.sciencedirect.com/science/article/pii/S0306453018310722) *Psychoneuroendocrinology* 2019, 107:187-190
 
-7. Kokko, J., Remes, U., Thomas, O., **Pesonen, H.** and Corander, J. (2019) [PYLFIRE: Python implementation of likelihood-free inference by ratio estimation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7041362.1/) *Wellcome Open research* 2019, 4:197
+7. Kataja, E.-L., Karlsson, L., Parsons, C.E., Pelto, J., **Pesonen, H.**, Häikiö, T., Hyönä, J., Nolvi, S., Korja, R. and Karlsson H. (2019) [Maternal pre-and postnatal anxiety symptoms and infant attention disengagement from emotional faces](https://www.sciencedirect.com/science/article/abs/pii/S0165032718312837)
+*Journal of affective disorders*, 2019, 243:280-289
 
-8. Nolvi, S., Uusitupa, H.‐M., Bridgett, D.J., **Pesonen, H.**, Aatsinki, A.‐K. Kataja, E.‐L., Korja, R., Karlsson, H. and Karlsson, L. (2018) [Human milk cortisol concentration predicts experimentally induced infant fear reactivity: moderation by infant sex](https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12625) *Developmental Science* 2018, 21(4):e12625
+8. Kokko, J., Remes, U., Thomas, O., **Pesonen, H.** and Corander, J. (2019) [PYLFIRE: Python implementation of likelihood-free inference by ratio estimation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7041362.1/) *Wellcome Open research* 2019, 4:197
 
-9. Nolvi, S., Bridgett, D.J., **Pesonen, H.**, Korja, R., Kataja, E.‐L., Karlsson, H. and Karlsson, L. (2018)
+9. Nolvi, S., Uusitupa, H.‐M., Bridgett, D.J., **Pesonen, H.**, Aatsinki, A.‐K. Kataja, E.‐L., Korja, R., Karlsson, H. and Karlsson, L. (2018) [Human milk cortisol concentration predicts experimentally induced infant fear reactivity: moderation by infant sex](https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12625) *Developmental Science* 2018, 21(4):e12625
+
+10. Nolvi, S., Bridgett, D.J., **Pesonen, H.**, Korja, R., Kataja, E.‐L., Karlsson, H. and Karlsson, L. (2018)
 [Infant sex moderates the effects of maternal pre‐and postnatal stress on executive functioning at 8 months of age](https://onlinelibrary.wiley.com/doi/abs/10.1111/infa.12206) *Infancy* 2018, 23(2):194-210
 
-10. Railo, H., Tuominen, J., Kaasinen, V. and **Pesonen, H.** (2017) [Dynamic changes in cortical effective connectivity underlie transsaccadic integration in humans](https://academic.oup.com/cercor/article/27/7/3609/3056384) *Cerebral Cortex* 2017, 27(7):3609-3617
+11. Railo, H., Tuominen, J., Kaasinen, V. and **Pesonen, H.** (2017) [Dynamic changes in cortical effective connectivity underlie transsaccadic integration in humans](https://academic.oup.com/cercor/article/27/7/3609/3056384) *Cerebral Cortex* 2017, 27(7):3609-3617
 
-11. Railo, H., Karhu, V.-M., Mast, J., **Pesonen, H.** and Koivisto, M. (2016) [Rapid and accurate processing of multiple objects in briefly presented scenes](https://jov.arvojournals.org/article.aspx?articleid=2491178) *Journal of Vision* 2016, 16(3):8
+12. Railo, H., Karhu, V.-M., Mast, J., **Pesonen, H.** and Koivisto, M. (2016) [Rapid and accurate processing of multiple objects in briefly presented scenes](https://jov.arvojournals.org/article.aspx?articleid=2491178) *Journal of Vision* 2016, 16(3):8
 
-12. Pesonen, M., **Pesonen, H.** and Nevalainen, J. (2015) [Covariance matrix estimation for left-censored data](https://www.sciencedirect.com/science/article/abs/pii/S0167947315001437), *Computational Statistics & Data Analysis*, 2015, 92:13-25
+13. Pesonen, M., **Pesonen, H.** and Nevalainen, J. (2015) [Covariance matrix estimation for left-censored data](https://www.sciencedirect.com/science/article/abs/pii/S0167947315001437), *Computational Statistics & Data Analysis*, 2015, 92:13-25
 
-13. Aatsinki, A.-K., Uusitupa, H.-M., Munukka, E., **Pesonen, H.**, Rintala, A., Pietilä, S., Lahti, L., Eerola, E., Karlsson, L. and Karlsson, H. (2018) [Gut microbiota composition in mid-pregnancy is associated with gestational weight gain but not prepregnancy body mass index](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6205042/) *Journal of Women's Health*, 2018, 27(10):1293-1301
+14. Aatsinki, A.-K., Uusitupa, H.-M., Munukka, E., **Pesonen, H.**, Rintala, A., Pietilä, S., Lahti, L., Eerola, E., Karlsson, L. and Karlsson, H. (2018) [Gut microbiota composition in mid-pregnancy is associated with gestational weight gain but not prepregnancy body mass index](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6205042/) *Journal of Women's Health*, 2018, 27(10):1293-1301
 
-14. **Pesonen, H** (2011), [A framework for Bayesian receiver autonomous integrity monitoring in urban navigation](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2161-4296.2011.tb02583.x) *Navigation*, 2011, 58(3):229-240
+15. **Pesonen, H** (2011), [A framework for Bayesian receiver autonomous integrity monitoring in urban navigation](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2161-4296.2011.tb02583.x) *Navigation*, 2011, 58(3):229-240
 
 Preprints
 ==========
