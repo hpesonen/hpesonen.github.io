@@ -52,7 +52,9 @@ Preprints
 Conference
 ==========
 
-1. **Pesonen, H.** and Piché, R. (2010) [Cubature-based Kalman filters for positioning](https://ieeexplore.ieee.org/abstract/document/5653829)
+1. **Pesonen, H.** and Piché, R. (2011) Bayesian positioning using Gaussian mixture models with time-varying component weights [pdf](https://www.researchgate.net/profile/Robert_Piche/publication/259193183_Bayesian_positioning_using_Gaussian_mixture_models_with_time-varying_component_weights/links/0046352a59df58f815000000/Bayesian-positioning-using-Gaussian-mixture-models-with-time-varying-component-weights.pdf) *JSM*, 2011
+
+2. **Pesonen, H.** and Piché, R. (2010) [Cubature-based Kalman filters for positioning](https://ieeexplore.ieee.org/abstract/document/5653829)
 *7th Workshop on Positioning, Navigation and Communication*, 2010, 45-49
 
 Thesis
