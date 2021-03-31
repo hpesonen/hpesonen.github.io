@@ -292,7 +292,6 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jemoji
-  kramdown (~> 2.3.0)
   minimal-mistakes-jekyll
   tzinfo-data
 
