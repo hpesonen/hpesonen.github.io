@@ -1,0 +1,20 @@
+---
+title: "About"
+image: assets/profile.jpg
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/henri_pesonen
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/henri-pesonen-a2a50316a/
+    - icon: github
+      text: Github
+      href: http://github.com/hpesonen
+---
+
+I've studied some math and statistics and I'm currently a postdoctoral fellow in the Department of Biostatistics at University of Oslo. My research topic is all things related to likelihood-free inference. I'm also the coordinator of [ELFI : Engine for Likelihood-free Inference](http://elfi.ai) development team.
+
+ELFI resides in [Github](http://github.com/elfi-dev) and the manual can be found [here](http://elfi.readthedocs.io).

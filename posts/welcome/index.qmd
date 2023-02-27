@@ -1,0 +1,10 @@
+---
+title: "To Quarto"
+author: "Henri Pesonen"
+date: "2022-09-02"
+categories: [news]
+---
+
+Migrating my homepage from jekyll to quarto. So far it seems great. 
+
+![](to_quarto.jpg)

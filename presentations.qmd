@@ -1,0 +1,10 @@
+---
+title: "Presentations"
+---
+
+Seminar talks
+=============
+
+- [ABC of the Future, Big Insight Lunch talk 16.3.2022](assets/presentations/ABCoftheFuture_talk_2022_BIL/index.html)
+- Probabilistic AI 2022 16.6.2022, ([slides](assets/presentations/pesonen_probAI2022_slides/index.html), [tutorial](https://colab.research.google.com/drive/1Dg9FZe07DJdGw5tZI5PIxNuAuszULsNP?usp=sharing))
+- [Discussion on Chou and Lin, 2019](assets/presentations/FHI_presentation_pesonen/index.html)
