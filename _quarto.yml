@@ -1,8 +1,7 @@
 project:
   type: website
+  output-dir: docs
   resources: assets/presentations/pesonen_probAI2022_slides
-
-output-dir: docs
 
 website:
   title: "Henri Pesonen's homepage"
