@@ -1,0 +1,12 @@
+---
+title: "Old teaching materials online (in Finnish!)"
+author: "Henri Pesonen"
+date: "2023-02-27"
+categories: [news]
+---
+
+Back in the day when I was a teacher at the Department of Mathematics and Statistics at University of Turku, I wrote quite a lot of material for my courses. While retiring an old laptop, I stumbled on the materials and decided to upload them on my webpage if someone would be curious about them. The materials I found are from the three first statistics courses which were lectured in Finnish!
+
+- [Todennäköisyyslaskennan peruskurssi (Introduction to Probability Theory)](assets/lecture_materials/TILM3553.pdf)
+- [Tilastollisen päättelyn peruskurssi (Introduction to Statistical Inference)](assets/lecture_materials/TILM3555.pdf)
+- [Tilastollisia malleja (Statistical Models)](assets/lecture_materials/TILM3511.pdf)
