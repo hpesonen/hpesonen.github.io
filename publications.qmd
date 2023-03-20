@@ -54,8 +54,6 @@ Preprints
 
 - Pöntinen, A. K. (equal contr.), Gladstone, R. A. (equal contr.), *Pesonen, H.* (equal contr.), Pesonen, M., Cléon, F., Parcell, B. J., Kallonen, T., Simonsen, G. S., Croucher, N. J., McNally, A., Parkhill, J., Johnsen, P. J., Samuelsen, Ø., Corander, J. (2023), [Β-lactam antibiotic use modulates multi-drug resistant clone success in Escherichia coli populations: a longitudinal multi-country genomic cohort study.](http://ssrn.com/abstract=4364886) Lancet preprint.
 
-
-
 - Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Pla, O. A., Thomas, O., **Pesonen, H.**, Corander, J., Vehtari, A., Kaski, S., Bürkner, P.-C. and Klami, A. (2021) [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380)
 
 - Aushev, A., Tran, T., **Pesonen, H.**, Howes, A. and Kaski, S. (2021) [Likelihood-Free Inference in State-Space Models with Unknown Dynamics](https://arxiv.org/abs/2111.01555)
@@ -68,6 +66,13 @@ Preprints
 
 Conference
 ==========
+
+- Discussant at panel "Probabilistic Programming" at BayesComp2023, Kittilä, Finland
+    - Moderator: Aki Vehtari (Aalto University, Finland)
+    - Mitzi Morris (Columbia University, USA)
+    - Junpeng Lao (Google, Switzerland)
+    - Tor Fjelde (Turing.jl / Cambridge University, United Kingdom) 
+    - **Henri Pesonen** (ELFI / Oslo University Hospital, Norway)
 
 - **Pesonen, H.** and Piché, R. (2011) Bayesian positioning using Gaussian mixture models with time-varying component weights [pdf](https://www.researchgate.net/profile/Robert_Piche/publication/259193183_Bayesian_positioning_using_Gaussian_mixture_models_with_time-varying_component_weights/links/0046352a59df58f815000000/Bayesian-positioning-using-Gaussian-mixture-models-with-time-varying-component-weights.pdf) *JSM*, 2011
 
