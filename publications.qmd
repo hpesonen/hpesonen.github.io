@@ -52,13 +52,15 @@ Journal
 Preprints
 ==========
 
+- Gkolemis, V., Gutmann, M. and **Pesonen, H.** [An Extendable Python Implementation of Robust Optimisation Monte Carlo](https://arxiv.org/abs/2309.10612)
+
 - Pöntinen, A. K. (equal contr.), Gladstone, R. A. (equal contr.), *Pesonen, H.* (equal contr.), Pesonen, M., Cléon, F., Parcell, B. J., Kallonen, T., Simonsen, G. S., Croucher, N. J., McNally, A., Parkhill, J., Johnsen, P. J., Samuelsen, Ø., Corander, J. (2023), [Β-lactam antibiotic use modulates multi-drug resistant clone success in Escherichia coli populations: a longitudinal multi-country genomic cohort study.](http://ssrn.com/abstract=4364886) Lancet preprint.
 
 - Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Pla, O. A., Thomas, O., **Pesonen, H.**, Corander, J., Vehtari, A., Kaski, S., Bürkner, P.-C. and Klami, A. (2021) [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380)
 
 - Aushev, A., Tran, T., **Pesonen, H.**, Howes, A. and Kaski, S. (2021) [Likelihood-Free Inference in State-Space Models with Unknown Dynamics](https://arxiv.org/abs/2111.01555)
 
-- Thomas, O., **Pesonen, H.**, Sá-Leão, R., de Lencastre, H., Kaski, S. and Corander, J. (2020) [Split-BOLFI for for misspecification-robust likelihood free inference in high dimensions](https://arxiv.org/abs/2002.09377)
+- Thomas, O., Sá-Leão, R., de Lencastre, H., Kaski, S., Corander, J. and **Pesonen, H.** (2020) [Misspecification-robust likelihood-free inference in high dimensions](https://arxiv.org/abs/2002.09377)
 
 - Thomas, O., **Pesonen, H.** and Corander, J. (2020) [Generalised Bayes Updates with f-divergences through Probabilistic Classifiers](https://arxiv.org/abs/2007.04358)
 
