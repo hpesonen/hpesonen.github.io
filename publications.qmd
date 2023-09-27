@@ -7,6 +7,8 @@ title: "Publications"
 Journal
 =======
 
+- Pöntinen, A. K. (equal contr.), Gladstone, R. A. (equal contr.), *Pesonen, H.* (equal contr.), Pesonen, M., Cléon, F., Parcell, B. J., Kallonen, T., Simonsen, G. S., Croucher, N. J., McNally, A., Parkhill, J., Johnsen, P. J., Samuelsen, Ø., Corander, J. (2023), [Modulation of multi-drug resistant clone success in Escherichia coli populations: a longitudinal multi-country genomic and antibiotic usage cohort study.](http://ssrn.com/abstract=4364886) The Lancet microbe (accepted).
+
 - Kičiatovas, D., Guo, Q., Kailas, M., **Pesonen, H.**, Corander, J., Kaski, S., Pitkänen, E. and Mustonen, V. (2022) [Identification of multiplicatively acting modulatory mutational signatures in cancer.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05060-8) BMC Bioinformatics 23, 522 (2022). https://doi.org/10.1186/s12859-022-05060-8
 
 - **Pesonen, H.**, Simola, U., Köhn-Luque, A., Vuollekoski, H., Lai, X., Frigessi, A., Kaski, S., Frazier, D.T.,  Maneesoonthorn, W., Martin, G.M. and Corander, J. (2022) [ABC of the Future](https://onlinelibrary.wiley.com/doi/full/10.1111/insr.12522). International Statistical Review. 2022.
@@ -53,8 +55,6 @@ Preprints
 ==========
 
 - Gkolemis, V., Gutmann, M. and **Pesonen, H.** [An Extendable Python Implementation of Robust Optimisation Monte Carlo](https://arxiv.org/abs/2309.10612)
-
-- Pöntinen, A. K. (equal contr.), Gladstone, R. A. (equal contr.), *Pesonen, H.* (equal contr.), Pesonen, M., Cléon, F., Parcell, B. J., Kallonen, T., Simonsen, G. S., Croucher, N. J., McNally, A., Parkhill, J., Johnsen, P. J., Samuelsen, Ø., Corander, J. (2023), [Β-lactam antibiotic use modulates multi-drug resistant clone success in Escherichia coli populations: a longitudinal multi-country genomic cohort study.](http://ssrn.com/abstract=4364886) Lancet preprint.
 
 - Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Pla, O. A., Thomas, O., **Pesonen, H.**, Corander, J., Vehtari, A., Kaski, S., Bürkner, P.-C. and Klami, A. (2021) [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380)
 
