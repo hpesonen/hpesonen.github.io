@@ -7,7 +7,7 @@ title: "Publications"
 Journal
 =======
 
-- Pöntinen, A. K. (equal contr.), Gladstone, R. A. (equal contr.), *Pesonen, H.* (equal contr.), Pesonen, M., Cléon, F., Parcell, B. J., Kallonen, T., Simonsen, G. S., Croucher, N. J., McNally, A., Parkhill, J., Johnsen, P. J., Samuelsen, Ø., Corander, J. (2023), [Modulation of multi-drug resistant clone success in Escherichia coli populations: a longitudinal multi-country genomic and antibiotic usage cohort study.](http://ssrn.com/abstract=4364886) The Lancet microbe (accepted).
+- Pöntinen, A. K. (equal contr.), Gladstone, R. A. (equal contr.), **Pesonen, H.** (equal contr.), Pesonen, M., Cléon, F., Parcell, B. J., Kallonen, T., Simonsen, G. S., Croucher, N. J., McNally, A., Parkhill, J., Johnsen, P. J., Samuelsen, Ø., Corander, J. (2023), [Modulation of multi-drug resistant clone success in Escherichia coli populations: a longitudinal multi-country genomic and antibiotic usage cohort study.](http://ssrn.com/abstract=4364886) The Lancet microbe (accepted).
 
 - Kičiatovas, D., Guo, Q., Kailas, M., **Pesonen, H.**, Corander, J., Kaski, S., Pitkänen, E. and Mustonen, V. (2022) [Identification of multiplicatively acting modulatory mutational signatures in cancer.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05060-8) BMC Bioinformatics 23, 522 (2022). https://doi.org/10.1186/s12859-022-05060-8
 
