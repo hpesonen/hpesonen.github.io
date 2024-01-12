@@ -7,7 +7,13 @@ title: "Publications"
 Journal
 =======
 
-- Pöntinen, A. K. (equal contr.), Gladstone, R. A. (equal contr.), **Pesonen, H.** (equal contr.), Pesonen, M., Cléon, F., Parcell, B. J., Kallonen, T., Simonsen, G. S., Croucher, N. J., McNally, A., Parkhill, J., Johnsen, P. J., Samuelsen, Ø., Corander, J. (2023), [Modulation of multi-drug resistant clone success in Escherichia coli populations: a longitudinal multi-country genomic and antibiotic usage cohort study.](http://ssrn.com/abstract=4364886) The Lancet microbe (accepted).
+- Pöntinen, A. K. (equal contr.), Gladstone, R. A. (equal contr.), **Pesonen, H.** (equal contr.), Pesonen, M., Cléon, F., Parcell, B. J., Kallonen, T., Simonsen, G. S., Croucher, N. J., McNally, A., Parkhill, J., Johnsen, P. J., Samuelsen, Ø., Corander, J. (2024), [Modulation of multi-drug resistant clone success in _Escherichia coli_ populations: a longitudinal multi-country genomic and antibiotic usage cohort study.](https://www.sciencedirect.com/science/article/pii/S2666524723002926) The Lancet Microbe.
+
+- Aushev, A., Tran, T., **Pesonen, H.**, Howes, A. and Kaski, S. (2024) [Likelihood-Free Inference in State-Space Models with Unknown Dynamics](https://link.springer.com/article/10.1007/s11222-023-10339-8). Statistics and Computing 34, 27 (2024). https://doi.org/10.1007/s11222-023-10339-8
+
+- Štrumbelj, E. Bouchard-Côté, A., Corander, J., Gelman, A., Rue, H., Murray, L., **Pesonen, H.**, Plummer, M., Vehtari, A. (2023), [Past, Present, and Future of Software for Bayesian Inference](https://repository.kaust.edu.sa/items/91507267-4d55-4811-8af9-4912f533a30b), Statistal Science (accepted)
+
+- Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Pla, O. A., Thomas, O., **Pesonen, H.**, Corander, J., Vehtari, A., Kaski, S., Bürkner, P.-C. and Klami, A. (2023) [Prior knowledge elicitation: The past, present, and future](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Prior-Knowledge-Elicitation-The-Past-Present-and-Future/10.1214/23-BA1381.full). Bayesian Anal. Advance Publication 1-33 (2023). DOI: 10.1214/23-BA1381
 
 - Kičiatovas, D., Guo, Q., Kailas, M., **Pesonen, H.**, Corander, J., Kaski, S., Pitkänen, E. and Mustonen, V. (2022) [Identification of multiplicatively acting modulatory mutational signatures in cancer.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05060-8) BMC Bioinformatics 23, 522 (2022). https://doi.org/10.1186/s12859-022-05060-8
 
@@ -54,11 +60,11 @@ Journal
 Preprints
 ==========
 
+- **Pesonen, H.** and Corander, J. (2023) [Stratified distance space improves the efficiency of sequential samplers for approximate Bayesian computation](https://arxiv.org/abs/2401.00324)
+
+- Belman, S., **Pesonen, H.**, Croucher, N., Bentley, S. D. and Corander, J. (2023) [Estimating Between Country Migration in Pneumococcal Populations](https://www.medrxiv.org/content/10.1101/2023.11.15.23298520v1)
+
 - Gkolemis, V., Gutmann, M. and **Pesonen, H.** [An Extendable Python Implementation of Robust Optimisation Monte Carlo](https://arxiv.org/abs/2309.10612)
-
-- Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Pla, O. A., Thomas, O., **Pesonen, H.**, Corander, J., Vehtari, A., Kaski, S., Bürkner, P.-C. and Klami, A. (2021) [Prior knowledge elicitation: The past, present, and future](https://arxiv.org/abs/2112.01380)
-
-- Aushev, A., Tran, T., **Pesonen, H.**, Howes, A. and Kaski, S. (2021) [Likelihood-Free Inference in State-Space Models with Unknown Dynamics](https://arxiv.org/abs/2111.01555)
 
 - Thomas, O., Sá-Leão, R., de Lencastre, H., Kaski, S., Corander, J. and **Pesonen, H.** (2020) [Misspecification-robust likelihood-free inference in high dimensions](https://arxiv.org/abs/2002.09377)
 
