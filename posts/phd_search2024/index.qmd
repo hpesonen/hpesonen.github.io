@@ -1,0 +1,18 @@
+---
+title: "Looking for PhD-students DL March 4th 2024"
+author: "Henri Pesonen"
+date: "2024-02-15"
+categories: [news, open positions]
+---
+
+There are 13 fully funded PhD positions open in Machine Learning, Statistics, Logic, Language Technology, and Ethics at [Integreat, The Norwegian Centre for Knowledge-driven Machine Learning.](https://integreat.no). You can find out [here](https://www.jobbnorge.no/en/available-jobs/job/257181/13-phd-positions-in-knowledge-driven-machine-learning).  
+
+You can work with me on the Project 7 "Discrepancy measures and accelerated likelihood-free inference for simulator-based models". 
+
+# Description
+Multiple research domains ranging from physics to bio-medical research have started to incorporate simulators to answer scientific questions that have eluded us thus far due to lack of computational power and the modelling capabilities. Simulator-based inference is a computational tool that has emerged from the intersection of statistics and machine learning and that is rapidly growing. It enables to calibrate mechanistic models using computer simulations as the main tool. We will develop new efficient probabilistic surrogate models for the simulator-based inference problem. The surrogate modelling can be used in multiple ways in simulation-based inference, as it can be used to replace virtually any or all components of the stochastic simulation system. We will develop theoretical guarantees for our new methods. We will investigate whether our new methods for quantifying the difference between synthetic simulation data and observational real-world data will outperform workflow-based human-in-the-loop strategies.  
+
+# Specific project requirements
+- Master’s degree in statistics, computer science, data science, mathematics, or a related quantitative subject with proven competence in statistics and/or machine learning. 
+- Documented experience in scientific programming (especially Python) will be an advantage.
+
