@@ -7,11 +7,11 @@ title: "Publications"
 Journal
 =======
 
-- Pöntinen, A. K. (equal contr.), Gladstone, R. A. (equal contr.), **Pesonen, H.** (equal contr.), Pesonen, M., Cléon, F., Parcell, B. J., Kallonen, T., Simonsen, G. S., Croucher, N. J., McNally, A., Parkhill, J., Johnsen, P. J., Samuelsen, Ø., Corander, J. (2024), [Modulation of multi-drug resistant clone success in _Escherichia coli_ populations: a longitudinal multi-country genomic and antibiotic usage cohort study.](https://www.sciencedirect.com/science/article/pii/S2666524723002926) The Lancet Microbe.
+- Štrumbelj, E. Bouchard-Côté, A., Corander, J., Gelman, A., Rue, H., Murray, L., **Pesonen, H.**, Plummer, M. and Vehtari, A. (2024), [Past, Present, and Future of Software for Bayesian Inference](https://projecteuclid.org/journals/statistical-science/volume-39/issue-1/Past-Present-and-Future-of-Software-for-Bayesian-Inference/10.1214/23-STS907.full), Statistical Science, 39(1):46-61, 2024.
+
+- Pöntinen, A. K. (equal contr.), Gladstone, R. A. (equal contr.), **Pesonen, H.** (equal contr.), Pesonen, M., Cléon, F., Parcell, B. J., Kallonen, T., Simonsen, G. S., Croucher, N. J., McNally, A., Parkhill, J., Johnsen, P. J., Samuelsen, Ø. and Corander, J. (2024), [Modulation of multi-drug resistant clone success in _Escherichia coli_ populations: a longitudinal multi-country genomic and antibiotic usage cohort study.](https://www.sciencedirect.com/science/article/pii/S2666524723002926) The Lancet Microbe.
 
 - Aushev, A., Tran, T., **Pesonen, H.**, Howes, A. and Kaski, S. (2024) [Likelihood-Free Inference in State-Space Models with Unknown Dynamics](https://link.springer.com/article/10.1007/s11222-023-10339-8). Statistics and Computing 34, 27 (2024). https://doi.org/10.1007/s11222-023-10339-8
-
-- Štrumbelj, E. Bouchard-Côté, A., Corander, J., Gelman, A., Rue, H., Murray, L., **Pesonen, H.**, Plummer, M., Vehtari, A. (2023), [Past, Present, and Future of Software for Bayesian Inference](https://repository.kaust.edu.sa/items/91507267-4d55-4811-8af9-4912f533a30b), Statistical Science (accepted)
 
 - Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Pla, O. A., Thomas, O., **Pesonen, H.**, Corander, J., Vehtari, A., Kaski, S., Bürkner, P.-C. and Klami, A. (2023) [Prior knowledge elicitation: The past, present, and future](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Prior-Knowledge-Elicitation-The-Past-Present-and-Future/10.1214/23-BA1381.full). Bayesian Anal. Advance Publication 1-33 (2023). DOI: 10.1214/23-BA1381
 
