@@ -7,6 +7,8 @@ title: "Publications"
 Journal
 =======
 
+- Belman, S., **Pesonen, H.**, Croucher, N., Bentley, S. D. and Corander, J. (2023) [Estimating Between Country Migration in Pneumococcal Populations](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkae058/7632324), G3 Genes|Genomes|Genetics, jkae058, 2024
+
 - Štrumbelj, E. Bouchard-Côté, A., Corander, J., Gelman, A., Rue, H., Murray, L., **Pesonen, H.**, Plummer, M. and Vehtari, A. (2024), [Past, Present, and Future of Software for Bayesian Inference](https://projecteuclid.org/journals/statistical-science/volume-39/issue-1/Past-Present-and-Future-of-Software-for-Bayesian-Inference/10.1214/23-STS907.full), Statistical Science, 39(1):46-61, 2024.
 
 - Pöntinen, A. K. (equal contr.), Gladstone, R. A. (equal contr.), **Pesonen, H.** (equal contr.), Pesonen, M., Cléon, F., Parcell, B. J., Kallonen, T., Simonsen, G. S., Croucher, N. J., McNally, A., Parkhill, J., Johnsen, P. J., Samuelsen, Ø. and Corander, J. (2024), [Modulation of multi-drug resistant clone success in _Escherichia coli_ populations: a longitudinal multi-country genomic and antibiotic usage cohort study.](https://www.sciencedirect.com/science/article/pii/S2666524723002926) The Lancet Microbe.
@@ -61,8 +63,6 @@ Preprints
 ==========
 
 - **Pesonen, H.** and Corander, J. (2023) [Stratified distance space improves the efficiency of sequential samplers for approximate Bayesian computation](https://arxiv.org/abs/2401.00324)
-
-- Belman, S., **Pesonen, H.**, Croucher, N., Bentley, S. D. and Corander, J. (2023) [Estimating Between Country Migration in Pneumococcal Populations](https://www.medrxiv.org/content/10.1101/2023.11.15.23298520v1)
 
 - Gkolemis, V., Gutmann, M. and **Pesonen, H.** [An Extendable Python Implementation of Robust Optimisation Monte Carlo](https://arxiv.org/abs/2309.10612)
 
