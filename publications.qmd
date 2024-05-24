@@ -62,15 +62,17 @@ Journal
 Preprints
 ==========
 
-- **Pesonen, H.** and Corander, J. (2023) [Stratified distance space improves the efficiency of sequential samplers for approximate Bayesian computation](https://arxiv.org/abs/2401.00324)
+- Ojala, F., **Pesonen, H.**, Gladstone, R. A., Mäklin, T., Tonkin-Hill, G., Marttinen, P. and Corander, J. [Basic reproduction number for pandemic Escherichia coli clones is comparable to typical pandemic viruses](https://doi.org/10.1101/2024.05.08.593267), 2024
 
-- Gkolemis, V., Gutmann, M. and **Pesonen, H.** [An Extendable Python Implementation of Robust Optimisation Monte Carlo](https://arxiv.org/abs/2309.10612)
+- **Pesonen, H.** and Corander, J.  [Stratified distance space improves the efficiency of sequential samplers for approximate Bayesian computation](https://arxiv.org/abs/2401.00324), 2023
 
-- Thomas, O., Sá-Leão, R., de Lencastre, H., Kaski, S., Corander, J. and **Pesonen, H.** (2020) [Misspecification-robust likelihood-free inference in high dimensions](https://arxiv.org/abs/2002.09377)
+- Gkolemis, V., Gutmann, M. and **Pesonen, H.** [An Extendable Python Implementation of Robust Optimisation Monte Carlo](https://arxiv.org/abs/2309.10612), 2023
 
-- Thomas, O., **Pesonen, H.** and Corander, J. (2020) [Generalised Bayes Updates with f-divergences through Probabilistic Classifiers](https://arxiv.org/abs/2007.04358)
+- Thomas, O., Sá-Leão, R., de Lencastre, H., Kaski, S., Corander, J. and **Pesonen, H.** [Misspecification-robust likelihood-free inference in high dimensions](https://arxiv.org/abs/2002.09377), 2023
 
-- Thomas, O., **Pesonen, H.** and Corander, J. (2020) [Probabilistic elicitation of expert knowledge through assessment of computer simulations](https://arxiv.org/abs/2002.10902)
+- Thomas, O., **Pesonen, H.** and Corander, J. [Generalised Bayes Updates with f-divergences through Probabilistic Classifiers](https://arxiv.org/abs/2007.04358), 2020
+
+- Thomas, O., **Pesonen, H.** and Corander, J. [Probabilistic elicitation of expert knowledge through assessment of computer simulations](https://arxiv.org/abs/2002.10902), 2020
 
 Conference
 ==========
