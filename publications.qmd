@@ -6,6 +6,9 @@ title: "Publications"
 
 Journal
 =======
+- Gkolemis, V., Gutmann, M. and **Pesonen, H.** [An Extendable Python Implementation of Robust Optimisation Monte Carlo](https://www.jstatsoft.org/article/view/v110i02), Journal of Statistical Software, 110(2), 1–26, 2024
+
+- Thorpe, H. et al. [Pan-pathogen deep sequencing of nosocomial bacterial pathogens in Italy in spring 2020: a prospective cohort study](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(24)00113-7/fulltext) *The Lancet Microbe*, 2024
 
 - Belman, S., **Pesonen, H.**, Croucher, N., Bentley, S. D. and Corander, J. (2023) [Estimating Between Country Migration in Pneumococcal Populations](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkae058/7632324), G3 Genes|Genomes|Genetics, jkae058, 2024
 
@@ -23,7 +26,7 @@ Journal
 
 -  Aushev, A., **Pesonen, H.**, Heinonen, M., Corander, J. and Kaski S. (2020) [Likelihood-Free Inference with Deep Gaussian Processes](https://www.sciencedirect.com/science/article/pii/S0167947322001098) *Computational Statistics \& Data Analysis*, 2022, 174:107529 
 
-- Pöntinen, A.K. et al. (2021), [Apparent nosocomial adaptation of Enterococcus faecalis predates the modern hospital era](https://www.nature.com/articles/s41467-021-21749-5) *Nature Communications* 2021, 12(1):1-13
+- Pöntinen, A.K. et al., [Apparent nosocomial adaptation of Enterococcus faecalis predates the modern hospital era](https://www.nature.com/articles/s41467-021-21749-5) *Nature Communications*, 12(1):1-13, 2021
 
 - Arstila, V., Georgescu, A.L., **Pesonen, H.**, Lunn, D., Noreika, V. and Falter-Wagner, C.M. (2020) [Event timing in human vision: Modulating factors and independent functions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226122) *PloS one* 2020, 15(8):e0226122.
 
@@ -65,8 +68,6 @@ Preprints
 - Ojala, F., **Pesonen, H.**, Gladstone, R. A., Mäklin, T., Tonkin-Hill, G., Marttinen, P. and Corander, J. [Basic reproduction number for pandemic Escherichia coli clones is comparable to typical pandemic viruses](https://doi.org/10.1101/2024.05.08.593267), 2024
 
 - **Pesonen, H.** and Corander, J.  [Stratified distance space improves the efficiency of sequential samplers for approximate Bayesian computation](https://arxiv.org/abs/2401.00324), 2023
-
-- Gkolemis, V., Gutmann, M. and **Pesonen, H.** [An Extendable Python Implementation of Robust Optimisation Monte Carlo](https://arxiv.org/abs/2309.10612), 2023
 
 - Thomas, O., Sá-Leão, R., de Lencastre, H., Kaski, S., Corander, J. and **Pesonen, H.** [Misspecification-robust likelihood-free inference in high dimensions](https://arxiv.org/abs/2002.09377), 2023
 
