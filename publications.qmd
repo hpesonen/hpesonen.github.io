@@ -6,7 +6,7 @@ title: "Publications"
 
 Journal
 =======
-- Hagberg, G., Ihle-Hansen, H., Abzhandadze, T., Reinholdsson, M., Viktorisson, A., **Pesonen, H.** and Ihle-Hansen, H., [Association of reperfusion therapy in acute ischemic stroke on PROMs after one year; a registry-based case-control study](https://www.sciencedirect.com/science/article/pii/S0022510X25001340), Journal of the Neurological Sciences, 473, 123517, 2025
+- Hagberg, G., Ihle-Hansen, H., Abzhandadze, T., Reinholdsson, M., Viktorisson, A., **Pesonen, H.**, Ihle-Hansen, H. and Sunnerhagen, K. S., [Association of reperfusion therapy in acute ischemic stroke on PROMs after one year; a registry-based case-control study](https://www.sciencedirect.com/science/article/pii/S0022510X25001340), Journal of the Neurological Sciences, 473, 123517, 2025
 
 - Baklund, L., Røssberg, J. I., Melbye, S. A., **Pesonen, H.** and Møller, P., [The influence of mood and social relationships on the intensity of basic self-disturbance: an experience sampling method investigation](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1514351/full), Frontiers in Psychiatry, 16, 1514351, 2025
 
