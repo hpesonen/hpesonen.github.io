@@ -6,6 +6,10 @@ title: "Publications"
 
 Journal
 =======
+- Hagberg, G., Ihle-Hansen, H., Abzhandadze, T., Reinholdsson, M., Viktorisson, A., **Pesonen, H.** and Ihle-Hansen, H., [Association of reperfusion therapy in acute ischemic stroke on PROMs after one year; a registry-based case-control study](https://www.sciencedirect.com/science/article/pii/S0022510X25001340), Journal of the Neurological Sciences, 473, 123517, 2025
+
+- Baklund, L., Røssberg, J. I., Melbye, S. A., **Pesonen, H.** and Møller, P., [The influence of mood and social relationships on the intensity of basic self-disturbance: an experience sampling method investigation](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1514351/full), Frontiers in Psychiatry, 16, 1514351, 2025
+
 - **Pesonen, H.** and Corander, J., [Stratified distance space improves the efficiency of sequential samplers for approximate Bayesian computation](https://www.sciencedirect.com/science/article/pii/S0167947325000179), Computational Statistics and Data Analysis, 207, 108141, 2025
 
 - Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Pla, O. A., Thomas, O., **Pesonen, H.**, Corander, J., Vehtari, A., Kaski, S., Bürkner, P.-C. and Klami, A., [Prior knowledge elicitation: The past, present, and future](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Prior-Knowledge-Elicitation-The-Past-Present-and-Future/10.1214/23-BA1381.full). Bayesian Analysis 19(4), 1129-1161, 2024. DOI: 10.1214/23-BA1381
