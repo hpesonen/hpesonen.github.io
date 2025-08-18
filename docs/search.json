@@ -46,6 +46,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’ve studied some math and statistics and done some teaching and research and I’m an assistant professor in applied statistics at Faculty of Information Technology and Communication Sciences, Tampere University, Tampere University. My research topic is all things related to likelihood-free inference. I’m also the coordinator of ELFI : Engine for Likelihood-free Inference development team.\nELFI resides in Github and the manual can be found here."
+    "text": "I’m an assistant professor in applied statistics at Faculty of Information Technology and Communication Sciences, Tampere University. My doctoral degree is in mathematics, but most of my career I’ve been working on statistical methods, models and applications. I’m often working with health-related applications and many of the methods I’ve been working on have a Bayesian flavor. Currently my main focus in is on all things related to likelihood-free inference, abd especially probabilistic surrogate models used to accelerate the inference. I’m also the coordinator of ELFI : Engine for Likelihood-free Inference development team.\nELFI resides in Github and the manual can be found here."
   }
 ]
