@@ -4,9 +4,9 @@ image: assets/profile.jpg
 about:
   template: solana
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/henri_pesonen
+    - icon: globe
+      text: Bluesky
+      href: https://bsky.app/profile/hpesonen.bsky.social
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/henri-pesonen-a2a50316a/

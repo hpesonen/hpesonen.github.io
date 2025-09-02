@@ -12,8 +12,8 @@ website:
       - presentations.qmd
       - icon: github
         href: http://github.com/hpesonen
-      - icon: twitter
-        href: https://twitter.com/henri_pesonen
+      - icon: globe
+        href: https://bsky.app/profile/hpesonen.bsky.social
 
 format:
   html:
